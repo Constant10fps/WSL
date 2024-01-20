@@ -20,3 +20,4 @@ int main()
 }
 ```
 It was taken from the official tutorial on how to use VS Code with WSL.
+This repository is going to be updated with the more I do on the VM.
